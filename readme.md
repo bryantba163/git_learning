@@ -1,2 +1,2 @@
-Hi,we are learning Git together.
+github_test
 Have a good time!
